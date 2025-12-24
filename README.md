@@ -1,58 +1,61 @@
-<!-- Banner Image -->
 <div align="center">
-  <img src="https://owlbertsio-resized.s3.amazonaws.com/This-Is-Fine.jpg.full.png" alt="Misu Banner" style="border-radius: 15px; max-width: 100%; height: auto;">
+
+<!-- HEADER -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&pause=1000&color=FF7AC3&center=true&vCenter=true&width=500&lines=🌸+Mishu+Here;Full-Stack+Dev;Code+%26+Coffee+☕" />
+
+<br/>
+
+<p>
+  <a href="https://discord.com/users/652146528185745418">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mishuw">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.instagram.com/mismis.x">
+    <img src="https://img.shields.io/badge/Instagram-ff4f8b?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://open.spotify.com/user/31p3rh7pu5ic4scytz3uqjngwhdy">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<!-- ABOUT -->
+<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=7ee787&center=true&vCenter=true&width=500&lines=I+build+things;Mostly+break+them;Then+fix+them+better" />
+
 </div>
 
-<!-- Header Section -->
-<h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="35"/> Hi, I'm Misu!
-</h1>
-<h3 align="center">Full-Stack Developer | Life-long Learner</h3>
+---
 
-<!-- Intro Section -->
-<p align="center">
-  Hello, I'm Misu (that's what I'm called online). I'm a passionate full-stack developer always eager to learn new technologies and take on challenging projects.
-</p>
+## ✨ Tech Stack
 
-<ul>
-  <li>✨ High school student exploring the tech world</li>
-  <li>🌱 Constantly learning new skills: Python, Node.js, TypeScript, React</li>
-  <li>💻 Check out my <a href="https://mishu.vercel.app" target="_blank">Portfolio</a> for more details!</li>
-</ul>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,lua,html,css,nodejs,nest,dotnet,express&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongo,redis,git,postman,vscode&theme=dark" />
+</div>
 
-<!-- Profile Views Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mishuw&label=Profile%20Views&color=770677&style=for-the-badge&logo=star" alt="Profile Views">
-</p>
+## 💜 Discord Presence
+
+<div align="center">
+  <a href="https://discord.com/users/928259219038302258">
+    <img width="380" src="https://lanyard.cnrad.dev/api/652146528185745418?decoration=true&useDisplayName=true&waveColor=ff7ac3&bg=00000000"/>
+  </a>
+</div>
 
 ---
 
-<!-- Languages and Tools Section -->
-<h2 align="center">🛠️ Languages & Tools</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,js,ts,python,html,css,react,vue,svelte,express,nodejs,mongo,mysql,sqlite,postman,vscode,git&perline=8" style="max-width: 100%;" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mishuw&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishuw&layout=compact&theme=radical&hide_border=true"/>
+</div>
 
 ---
 
-<!-- Contribution Graph Section -->
-<h2 align="center">📈 Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishuw&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" alt="Contribution Graph">
-</p>
-
----
-
-<!-- GitHub Stats Section -->
-<h2 align="center">🔥 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishuw&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishuw&theme=radical" alt="Streak Stats" width="48%">
-</p>
-
----
-
-<!-- Connect With Me Section -->
 <h2 align="center">🤝 Connect With Me</h2>
 <p align="center">
   <a href="https://discord.com/users/652146528185745418" target="_blank">
@@ -62,11 +65,4 @@
   <a href="https://discord.gg/nVSFdn5dUv" target="_blank">
     <img src="https://api.weblutions.com/discord/invite/nVSFdn5dUv" alt="Join My Discord" width="40%">
   </a>
-</p>
-
----
-
-<!-- Footer Section -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" alt="Footer">
 </p>
