@@ -50,8 +50,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mishuw&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishuw&layout=compact&theme=radical&hide_border=true"/>
+  <img height="160" src="https://count.getloli.com/get/@:mishuw?theme=booru-lewd"> <br/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishuw&layout=compact&theme=radical&hide_border=true"/> <br/>
+  <img title="Github'dan Takip Et" src="https://img.shields.io/github/followers/mishuw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
+
 </div>
 
 ---
