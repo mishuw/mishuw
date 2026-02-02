@@ -37,10 +37,18 @@
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongo,redis,git,postman,vscode&theme=dark" />
 </div>
 
-## 💜 Discord Presence
+## 🎮 Steam
 
 <div align="center">
   <a href="https://discord.com/users/928259219038302258">
+    <img src="https://steam-widget.com/widget/img?id=76561199195399377&gameList=TOP_GAMES_RECENT&gameListSize=1" width="350">
+  </a>
+</div>
+
+## 💜 Discord Presence
+
+<div align="center">
+  <a href="https://steamcommunity.com/id/misuvac">
     <img width="380" src="https://lanyard.cnrad.dev/api/652146528185745418?decoration=true&useDisplayName=true&waveColor=ff7ac3&bg=00000000"/>
   </a>
 </div>
