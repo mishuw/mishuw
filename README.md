@@ -7,16 +7,17 @@
 
 <p>
   <a href="https://discord.com/users/652146528185745418">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img width="13%" src="https://img.shields.io/badge/Discord%20-000000.svg?&style=flat&logo=discord&logoColor=white">
   </a>
   <a href="https://github.com/mishuw">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/>
+    <img width="13%" src="https://img.shields.io/badge/Github%20-000000.svg?&style=flat&logo=github&logoColor=white">
+  
   </a>
-  <a href="https://www.instagram.com/mismis.x">
-    <img src="https://img.shields.io/badge/Instagram-ff4f8b?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/yasinfxf">
+    <<img width="16%" src="https://img.shields.io/badge/Instagram%20-000000.svg?&style=flat&logo=instagram&logoColor=white">
   </a>
   <a href="https://open.spotify.com/user/31p3rh7pu5ic4scytz3uqjngwhdy">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+    <img width="13%" src="https://img.shields.io/badge/Spotify%20-000000.svg?&style=flat&logo=spotify&logoColor=white">
   </a>
 </p>
 
