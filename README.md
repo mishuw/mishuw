@@ -5,21 +5,20 @@
 
 <br/>
 
-<p>
+<div align="center">
   <a href="https://discord.com/users/652146528185745418">
     <img width="13%" src="https://img.shields.io/badge/Discord%20-000000.svg?&style=flat&logo=discord&logoColor=white">
   </a>
   <a href="https://github.com/mishuw">
     <img width="13%" src="https://img.shields.io/badge/Github%20-000000.svg?&style=flat&logo=github&logoColor=white">
-  
   </a>
   <a href="https://www.instagram.com/yasinfxf">
-    <<img width="16%" src="https://img.shields.io/badge/Instagram%20-000000.svg?&style=flat&logo=instagram&logoColor=white">
+    <img width="16%" src="https://img.shields.io/badge/Instagram%20-000000.svg?&style=flat&logo=instagram&logoColor=white">
   </a>
   <a href="https://open.spotify.com/user/31p3rh7pu5ic4scytz3uqjngwhdy">
     <img width="13%" src="https://img.shields.io/badge/Spotify%20-000000.svg?&style=flat&logo=spotify&logoColor=white">
   </a>
-</p>
+</div>
 
 <br/>
 
