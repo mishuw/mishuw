@@ -59,10 +59,6 @@
 
 <h2 align="center">🤝 Connect With Me</h2>
 <p align="center">
-  <a href="https://discord.com/users/652146528185745418" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/652146528185745418?hideActivity=true" alt="Discord Status">
-  </a>
-  <br>
   <a href="https://discord.gg/212" target="_blank">
     <img src="https://api.weblutions.com/discord/invite/212" alt="Join My Discord" width="40%">
   </a>
