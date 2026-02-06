@@ -67,7 +67,7 @@
 
 <h2 align="center">🤝 Connect With Me</h2>
 <p align="center">
-  <a href="https://discord.gg/212" target="_blank">
-    <img src="https://api.weblutions.com/discord/invite/212" alt="Join My Discord" width="40%">
+  <a href="https://discord.gg/YVYktcxWbd" target="_blank">
+    <img src="https://api.weblutions.com/discord/invite/YVYktcxWbd" alt="Join My Discord" width="40%">
   </a>
 </p>
