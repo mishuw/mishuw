@@ -1,56 +1,61 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&pause=1000&color=FF7AC3&center=true&vCenter=true&width=500&lines=🌸+Mishu+Here;Full-Stack+Dev;Code+%26+Coffee+☕" />
+<!-- HERO -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=34&pause=1200&color=ff7ac3&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+Mishu+🌙;Full-Stack+Developer;Code.+Coffee.+Chaos." />
 
-<br/>
+<br/><br/>
 
+<!-- SOCIALS -->
 <div align="center">
   <a href="https://discord.com/users/652146528185745418">
-    <img width="13%" src="https://img.shields.io/badge/Discord%20-000000.svg?&style=flat&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   <a href="https://github.com/mishuw">
-    <img width="13%" src="https://img.shields.io/badge/Github%20-000000.svg?&style=flat&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.instagram.com/yasinfxf">
-    <img width="16%" src="https://img.shields.io/badge/Instagram%20-000000.svg?&style=flat&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://open.spotify.com/user/31p3rh7pu5ic4scytz3uqjngwhdy">
-    <img width="13%" src="https://img.shields.io/badge/Spotify%20-000000.svg?&style=flat&logo=spotify&logoColor=white">
+    <img src="https://img.shields.io/badge/Spotify-111111?style=for-the-badge&logo=spotify&logoColor=white">
+  </a>
+  <br/>
+  <a href="https://discord.gg/YVYktcxWbd">
+    <img src="https://img.shields.io/badge/Discord%20Server-111111?style=for-the-badge&logo=discord&logoColor=ff7ac3">
   </a>
 </div>
 
 <br/>
 
 <!-- ABOUT -->
-<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=7ee787&center=true&vCenter=true&width=500&lines=I+build+things;Mostly+break+them;Then+fix+them+better" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=7ee787&center=true&vCenter=true&width=520&lines=I+build+stuff;I+break+stuff;I+fix+it+cleaner" />
 
 </div>
 
 ---
 
-## ✨ Tech Stack
+## ⚙️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,cs,lua,html,css,nodejs,nest,dotnet,express&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongo,redis,git,postman,vscode&theme=dark" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,lua,html,css,nodejs,nest,dotnet,express,mysql,sqlite,mongo,redis,git,postman,vscode&theme=dark&perline=8" />
+</p>
 
-## 🎮 Steam
+---
+
+## 🎮 Steam Activity
 
 <div align="center">
   <a href="https://steamcommunity.com/id/misuvac">
-    <img src="https://steam-widget.com/widget/img?id=76561199195399377&gameList=TOP_GAMES_RECENT&gameListSize=1" width="350">
+    <img src="https://steam-widget.com/widget/img?id=76561199195399377&gameList=TOP_GAMES_RECENT&gameListSize=1&theme=dark" width="360">
   </a>
 </div>
+
+---
 
 ## 💜 Discord Presence
 
 <div align="center">
-  <a href="https://discord.com/users/928259219038302258">
-    <img width="380" src="https://lanyard.cnrad.dev/api/652146528185745418?decoration=true&useDisplayName=true&waveColor=ff7ac3&bg=00000000"/>
-  </a>
+  <img width="420" src="https://lanyard.cnrad.dev/api/652146528185745418?decoration=true&useDisplayName=true&waveColor=ff7ac3&bg=0d1117"/>
 </div>
 
 ---
@@ -58,16 +63,5 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://count.getloli.com/get/@:mishuw?theme=booru-lewd"> <br/>
-  <img title="Github'dan Takip Et" src="https://img.shields.io/github/followers/mishuw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" height="160" /></a>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mishuw&theme=radical&hide_border=true" height="160"/>
 </div>
-
----
-
-<h2 align="center">🤝 Connect With Me</h2>
-<p align="center">
-  <a href="https://discord.gg/YVYktcxWbd" target="_blank">
-    <img src="https://api.weblutions.com/discord/invite/YVYktcxWbd" alt="Join My Discord" width="40%">
-  </a>
-</p>
