@@ -17,32 +17,13 @@ I build advanced systems around real-time applications, Discord infrastructures,
 
 <!-- SOCIALS -->
 
-<a href="https://discord.com/users/652146528185745418" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+[![Discord](https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/652146528185745418)
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yasinfxrr)
+[![Spotify](https://img.shields.io/badge/Spotify-111111?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31p3rh7pu5ic4scytz3uqjngwhdy)
 
-<a href="https://github.com/mishuw" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![Discord Community](https://img.shields.io/badge/Discord%20Server-111111?style=for-the-badge&logo=discord&logoColor=ff7ac3)](https://discord.gg/YVYktcxWbd)
 
-<a href="https://www.instagram.com/yasinfxrr" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://open.spotify.com/user/31p3rh7pu5ic4scytz3uqjngwhdy" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Spotify-111111?style=for-the-badge&logo=spotify&logoColor=white" />
-</a>
-
-<br />
-
-<a href="https://discord.gg/YVYktcxWbd" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Discord%20Server-111111?style=for-the-badge&logo=discord&logoColor=ff7ac3"/>
-</a>
-
-<br />
-<br />
-
-<img width="50%" src="https://count.getloli.com/get/@:mishuw?theme=booru-lisu"/>
+<img width="32%" src="https://count.getloli.com/get/@:mishuw?theme=booru-lisu"/>
 
 <br />
 <br />
