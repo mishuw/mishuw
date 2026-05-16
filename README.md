@@ -25,6 +25,8 @@ I build advanced systems around real-time applications, Discord infrastructures,
 [![Spotify](https://img.shields.io/badge/Spotify-111111?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31p3rh7pu5ic4scytz3uqjngwhdy)
 
 [![Discord Community](https://img.shields.io/badge/Discord%20Server-111111?style=for-the-badge&logo=discord&logoColor=ff7ac3)](https://discord.gg/YVYktcxWbd)
+[![XXDSD](https://wakatime.com/badge/user/34b1e239-a1c4-4c1e-ad7a-89fb97e60d23.svg?style=for-the-badge&&color=111111&label_color=1A1A1A)](https://wakatime.com/@misu)
+
 
 <img width="32%" src="https://count.getloli.com/get/@:mishuw?theme=booru-lisu"/>
 
