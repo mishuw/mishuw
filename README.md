@@ -71,4 +71,7 @@ I build advanced systems around real-time applications, Discord infrastructures,
   <img src="https://api.weblutions.com/discord/invite/YVYktcxWbd/" alt="kaybet"/>
 </a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </div>
