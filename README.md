@@ -33,7 +33,7 @@ I build advanced systems around real-time applications, Discord infrastructures,
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=ts,js,cs,lua,html,css,rust,nodejs,bun,nextjs,nuxtjs,nest,dotnet,express,mysql,sqlite,supabase,mongo,redis,docker,git,postman,vscode&theme=dark&perline=8"
+<img src="https://skillicons.dev/icons?i=html,css,rust,js,ts,figma,tailwindcss,nextjs,nuxtjs,vue,react,py,postgresql,supabase,mongodb,redis,prisma,mysql,git,vite,cloudflare,md,nodejs,bun&theme=dark&perline=8"
 />
 
 <br />
