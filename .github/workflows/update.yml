@@ -16,8 +16,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: "▱▰"
-          SHOW_TITLE: true
-          SHOW_TIME: false
           SHOW_TOTAL: true
           SYMBOL_VERSION: 2
           LANG_COUNT: 5
