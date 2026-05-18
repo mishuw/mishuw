@@ -49,15 +49,15 @@ I build advanced systems around real-time applications, Discord infrastructures,
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 December 2025 - To: 16 May 2026
+From: 05 December 2025 - To: 17 May 2026
 
-Total Time: 19 hrs 24 mins
+Total Time: 24 hrs 14 mins
 
-TypeScript        11 hrs 30 mins        ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱   58.60 %
-Python            2 hrs 40 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   13.61 %
-JSON              2 hrs                 ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   10.22 %
-Nix               1 hr 7 mins           ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.69 %
-Rust              50 mins               ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.25 %
+TypeScript        14 hrs 46 mins        ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱   59.65 %
+Python            3 hrs 5 mins          ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   12.48 %
+JSON              2 hrs 38 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   10.64 %
+Nix               1 hr 7 mins           ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.52 %
+Rust              50 mins               ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.37 %
 ```
 
 <!--END_SECTION:waka-->
