@@ -25,7 +25,7 @@ I build advanced systems around real-time applications, Discord infrastructures,
 
 [![Discord](https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/652146528185745418)
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yasinfxrr)
-[![Spotify](https://img.shields.io/badge/Spotify-111111?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31p3rh7pu5ic4scytz3uqjngwhdy)
+[![Bluesky](https://img.shields.io/badge/Bluesky-111111?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/misu.is-a.dev)
 
 <br />
 
