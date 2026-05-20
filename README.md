@@ -47,17 +47,10 @@ I build advanced systems around real-time applications, Discord infrastructures,
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mishuw&theme=tokyonight" height="165" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2046%20mins-blue?style=flat)
 
-```txt
-Total Time: 24 hrs 14 mins
 
-TypeScript        14 hrs 46 mins        ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱   59.65 %
-Python            3 hrs 5 mins          ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   12.48 %
-JSON              2 hrs 38 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   10.64 %
-Nix               1 hr 7 mins           ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.52 %
-Rust              50 mins               ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.37 %
-```
-
+ Last Updated on 20/05/2026 10:04 UTC
 <!--END_SECTION:waka-->
 
 </div>
