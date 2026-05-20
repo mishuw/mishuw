@@ -49,8 +49,81 @@ I build advanced systems around real-time applications, Discord infrastructures,
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2046%20mins-blue?style=flat)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue?style=flat)
 
- Last Updated on 20/05/2026 10:04 UTC
+**🐱 My GitHub Data** 
+
+> 📦 168.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 175 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 6 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+🌆 Daytime                128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+🌃 Evening                423 commits         ███████████░░░░░░░░░░░░░░   45.58 % 
+🌙 Night                  371 commits         ██████████░░░░░░░░░░░░░░░   39.98 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   210 commits         ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+Tuesday                  145 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Wednesday                89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Thursday                 72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Friday                   65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Saturday                 99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Sunday                   248 commits         ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Istanbul
+
+💬 Programming Languages: 
+TypeScript               2 hrs 7 mins        █████████████████░░░░░░░░   66.77 % 
+MDX                      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+JSON                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 11 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+mishu                    2 hrs 54 mins       ███████████████████████░░   91.09 % 
+pack                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+
+💻 Operating System: 
+Linux                    3 hrs 11 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               9 repos             █████████████░░░░░░░░░░░░   52.94 % 
+JavaScript               6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/mishuw/mishuw/main/assets/bar_graph.png)
+
+
+ Last Updated on 20/05/2026 10:27:59 UTC
 <!--END_SECTION:waka-->
 
 </div>
