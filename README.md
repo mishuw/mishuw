@@ -47,21 +47,35 @@ I build advanced systems around real-time applications, Discord infrastructures,
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mishuw&theme=tokyonight" height="165" />
 
 <!--START_SECTION:waka-->
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   210 commits         ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+Tuesday                  145 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Wednesday                113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Thursday                 72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Friday                   65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Saturday                 99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Sunday                   248 commits         ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 7 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   66.77 % 
-MDX                      20 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.87 % 
-JSON                     19 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.28 % 
-Other                    16 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.68 % 
-YAML                     5 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.64 % 
+TypeScript               2 hrs 7 mins        █████████████████░░░░░░░░   66.77 % 
+MDX                      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+JSON                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 11 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+VS Code                  3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 
+ Last Updated on 20/05/2026 15:38:42 UTC
 <!--END_SECTION:waka-->
 
 </div>
