@@ -1,9 +1,6 @@
 <img align="right" width="25%" src="https://count.getloli.com/get/@:mishuw?theme=booru-lisu"/>
 
-<img 
-  width="100%" 
-  src="https://capsule-render.vercel.app/api?type=waving&text=Yasin+Çakmak&fontAlignY=35&fontColor=FFFFFF&fontSize=52&height=200&color=0A0A0A&animation=fadeIn&desc=Fullstack+Developer&descAlignY=55&descColor=1f1f1f"
-/>
+[![Banner](https://misu.is-a.dev/images/card.svg)](#)
 
 <div align="center">
 
