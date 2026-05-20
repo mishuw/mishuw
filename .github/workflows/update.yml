@@ -11,13 +11,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Wakatime Stats (JSON)
+      - name: Generate Wakatime Stats
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          BLOCKS: "▱▰"
           SHOW_TOTAL: true
           SYMBOL_VERSION: 2
+          COMMIT_MESSAGE: "chore: update waka time stats 📊"
           TIME_RANGE: "all_time"
           TIMEZONE: "Europe/Istanbul"
-          OUTPUT_JSON: true
