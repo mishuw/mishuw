@@ -41,10 +41,10 @@ I build advanced systems around real-time applications, Discord infrastructures,
 <img width="55%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Stats"/>
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mishuw&theme=tokyonight" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misureal&theme=tokyonight" height="165" />
 <br />
-<img height="165" src="https://streak-stats.demolab.com?user=mishuw&theme=tokyonight&hide_border=true" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mishuw&theme=tokyonight" height="165" />
+<img height="165" src="https://streak-stats.demolab.com?user=misureal&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=misureal&theme=tokyonight" height="165" />
 
 <!--START_SECTION:waka-->
 
