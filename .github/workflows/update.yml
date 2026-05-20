@@ -1,34 +1,24 @@
-name: Waka Readme
+name: WakaTime Stats
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update README Stats
+    name: Update README
     runs-on: ubuntu-latest
 
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Generate Wakatime Stats
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_LOC_CHART: "False"
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
-          SHOW_EDITORS: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_TIMEZONE: "False"
-          SHOW_COMMIT: "False"
-          SHOW_LINES_OF_CODE: "False"
-          SHOW_TOTAL_CODE_TIME: "False"
-          SHOW_SHORT_INFO: "False"
-          SYMBOL_VERSION: 1
-          IGNORED_REPOS: "dotfiles,old-project,test"
+          BLOCKS: "▱▰"
+          SHOW_TOTAL: true
+          SYMBOL_VERSION: 2
           COMMIT_MESSAGE: "chore: update waka time stats 📊"
           TIME_RANGE: "all_time"
+          TIMEZONE: "Europa/Istanbul"
