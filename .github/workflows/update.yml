@@ -18,7 +18,6 @@ jobs:
           BLOCKS: "▱▰"
           SHOW_TOTAL: true
           SYMBOL_VERSION: 2
-          LANG_COUNT: 5
           COMMIT_MESSAGE: "chore: update waka time stats 📊"
           TIME_RANGE: "all_time"
           TIMEZONE: "Europa/Istanbul"
