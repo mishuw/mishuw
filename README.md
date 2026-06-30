@@ -13,7 +13,7 @@
 Hi, I’m Yasin, a full-stack developer focused on JavaScript and TypeScript ecosystems.  
 I mainly work with Next.js, NestJS, React, Redis, Express, APIs, and modern backend architectures.
 
-I build advanced systems around real-time applications, Discord infrastructures, authentication flows, and custom desktop/web solutions. Alongside freelance projects, I’m also developing private platforms and scalable community-based systems.
+I build advanced systems around real-time applications, infrastructures, authentication flows, and custom desktop/web solutions. Alongside freelance projects, I’m also developing private platforms and scalable community-based systems.
 
 </samp>
 
